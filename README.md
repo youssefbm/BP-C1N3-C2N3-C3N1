@@ -15,7 +15,7 @@ Dans ce défi vous allez développer un site vitrine d’une agence web du nom �
 2. Réaliser une interface utilisateur web statique et adaptable (niveau 3)
 3. Développer une interface utilisateur web dynamique (niveau 1)
 
-## Modalitée de travail
+## Modalité de travail
 
 1. Travail Collaboratif (groupe de 6)
 2. Durée 8 jours
